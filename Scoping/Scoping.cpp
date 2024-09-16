@@ -27,7 +27,7 @@ int main()
 }
 void Func()
 {
-	int var = 5; // local variable in function Func()
+	int var = 7; // local variable in function Func()
 	std::cout << "In Func() var is: " << var << "\n\n";
 
 }
